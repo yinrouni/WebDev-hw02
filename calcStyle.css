@@ -1,0 +1,23 @@
+table, tr, td {border: 2px solid black;
+		border-collapse:collapse;}
+
+td {width: 70px;
+	height: 70px;
+	text-align: center;
+	font-size: 25px}
+
+td#display{text-align: right;
+		color:white;
+		background-color: DimGrey;}
+
+td.button-number:active {background-color: LightGrey;}
+td.button-number {background-color: Grey;
+			color :white;}
+
+td#button-clear:active {background-color: WhiteSmoke;}
+td#button-clear {background-color: LightGrey;
+			color :balck;}
+
+td.button:active {background-color: NavajoWhite;}
+td.button {background-color: orange;
+			color :white;}
