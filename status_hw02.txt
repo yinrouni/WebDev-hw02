@@ -1,0 +1,44 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Rouni Yin
+
+2. What hostname did you deploy to?
+hw02.yrn95.fun
+
+3. What's the link to your repository on github with your code?
+https://github.com/yinrouni/WebDev-hw02.git
+
+4. How many HTML / CSS tutorial exercises did you do?
+All of them.
+
+5. How comfortable do you feel with HTML and CSS now?
+Yes
+
+6. How many JS tutorial exercises did you do?
+All of them.
+
+7. How comfortable do you feel with JS now?
+Not very, especially the anonymous functions.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+
+"Use anonymous function(s) and lexical scope to avoid polluting the global namespace with more than - at most - one new global name."
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
